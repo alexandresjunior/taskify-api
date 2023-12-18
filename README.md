@@ -73,5 +73,4 @@ A API possui os seguintes endpoints:
 * `DELETE /projetos/{id}`: Exclui um projeto.
 
 ## Chamando os Endpoints via Swagger
-Após iniciar a aplicação, você pode acessar em seu navegador a documentação interativa da API por meio do [Swagger UI](http://localhost:8080/swagger-ui.html).  
-Lá, você encontrará uma interface fácil de usar para explorar e testar os endpoints da API.
+Após iniciar a aplicação, você pode acessar em seu navegador a documentação interativa da API por meio do [Swagger UI](http://localhost:8080/swagger-ui.html). Lá, você encontrará uma interface fácil de usar para explorar e testar os endpoints da API.
